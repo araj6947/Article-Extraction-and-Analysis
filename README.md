@@ -11,3 +11,7 @@ The following analysis is being performed in this notebook:
 6. Syllable Count Per Word
 7. Personal Pronouns
 8. Average Word Length
+
+## Initially to extract any article from a given link do the following:
+
+- Run the text_extractor.py in the code folder
